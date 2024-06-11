@@ -1,1 +1,101 @@
-[[{"player_one_name": "Tseng C. H. (Tpe)", "player_two_name": "Kym J. (Sui)", "player_one_first_serve_total_points_won": "0", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "0", "player_two_total_points_won": "8"}, {"player_one_name": "Salkova D. (Cze)", "player_two_name": "Caballer Catiru A. (Esp)", "player_one_first_serve_total_points_won": "1", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "5", "player_two_total_points_won": "7"}, {"player_one_name": "Dzumhur D. (Bih)", "player_two_name": "Roca Batalla O. (Esp)", "player_one_first_serve_total_points_won": "4", "player_two_first_serve_total_points_won": "4", "player_one_total_points_won": "6", "player_two_total_points_won": "7"}, {"player_one_name": "Tararudee L. (Tha)", "player_two_name": "Lopez Martinez C. (Esp)", "player_one_first_serve_total_points_won": "2", "player_two_first_serve_total_points_won": "2", "player_one_total_points_won": "5", "player_two_total_points_won": "7"}, {"player_one_name": "Van den Broek I. L. (Ned)", "player_two_name": "Sonmez Z. (Tur)", "player_one_first_serve_total_points_won": "5", "player_two_first_serve_total_points_won": "1", "player_one_total_points_won": "9", "player_two_total_points_won": "4"}, {"player_one_name": "Garin C. (Chi)", "player_two_name": "Yevseyev D. (Kaz)", "player_one_first_serve_total_points_won": "5", "player_two_first_serve_total_points_won": "6", "player_one_total_points_won": "1", "player_two_total_points_won": "1"}, {"player_one_name": "Stakusic M. (Can)", "player_two_name": "Galfi D. (Hun)", "player_one_first_serve_total_points_won": "5", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "10", "player_two_total_points_won": "8"}, {"player_one_name": "Gasquet R. (Fra)", "player_two_name": "Bonzi B. (Fra)", "player_one_first_serve_total_points_won": "1", "player_two_first_serve_total_points_won": "5", "player_one_total_points_won": "3", "player_two_total_points_won": "5"}, {"player_one_name": "Masur D. (Ger)", "player_two_name": "Herbert P. (Fra)", "player_one_first_serve_total_points_won": "3", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "8", "player_two_total_points_won": "6"}, {"player_one_name": "Brouwer G. (Ned)", "player_two_name": "Moreno De Alboran N. (Usa)", "player_one_first_serve_total_points_won": "2", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "0", "player_two_total_points_won": "1"}, {"player_one_name": "Schoolkate T. (Aus)", "player_two_name": "Atmane T. (Fra)", "player_one_first_serve_total_points_won": "5", "player_two_first_serve_total_points_won": "4", "player_one_total_points_won": "10", "player_two_total_points_won": "8"}, {"player_one_name": "Valentova T. (Cze)", "player_two_name": "Samson L. (Cze)", "player_one_first_serve_total_points_won": "6", "player_two_first_serve_total_points_won": "3", "player_one_total_points_won": "10", "player_two_total_points_won": "6"}]]
+[
+    [
+        {
+            "player_one_name": "Tseng C. H. (Tpe)",
+            "player_two_name": "Kym J. (Sui)",
+            "player_one_first_serve_total_points_won": "0",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "0",
+            "player_two_total_points_won": "8"
+        },
+        {
+            "player_one_name": "Salkova D. (Cze)",
+            "player_two_name": "Caballer Catiru A. (Esp)",
+            "player_one_first_serve_total_points_won": "1",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "5",
+            "player_two_total_points_won": "7"
+        },
+        {
+            "player_one_name": "Dzumhur D. (Bih)",
+            "player_two_name": "Roca Batalla O. (Esp)",
+            "player_one_first_serve_total_points_won": "4",
+            "player_two_first_serve_total_points_won": "4",
+            "player_one_total_points_won": "6",
+            "player_two_total_points_won": "7"
+        },
+        {
+            "player_one_name": "Tararudee L. (Tha)",
+            "player_two_name": "Lopez Martinez C. (Esp)",
+            "player_one_first_serve_total_points_won": "2",
+            "player_two_first_serve_total_points_won": "2",
+            "player_one_total_points_won": "5",
+            "player_two_total_points_won": "7"
+        },
+        {
+            "player_one_name": "Van den Broek I. L. (Ned)",
+            "player_two_name": "Sonmez Z. (Tur)",
+            "player_one_first_serve_total_points_won": "5",
+            "player_two_first_serve_total_points_won": "1",
+            "player_one_total_points_won": "9",
+            "player_two_total_points_won": "4"
+        },
+        {
+            "player_one_name": "Garin C. (Chi)",
+            "player_two_name": "Yevseyev D. (Kaz)",
+            "player_one_first_serve_total_points_won": "5",
+            "player_two_first_serve_total_points_won": "6",
+            "player_one_total_points_won": "1",
+            "player_two_total_points_won": "1"
+        },
+        {
+            "player_one_name": "Stakusic M. (Can)",
+            "player_two_name": "Galfi D. (Hun)",
+            "player_one_first_serve_total_points_won": "5",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "10",
+            "player_two_total_points_won": "8"
+        },
+        {
+            "player_one_name": "Gasquet R. (Fra)",
+            "player_two_name": "Bonzi B. (Fra)",
+            "player_one_first_serve_total_points_won": "1",
+            "player_two_first_serve_total_points_won": "5",
+            "player_one_total_points_won": "3",
+            "player_two_total_points_won": "5"
+        },
+        {
+            "player_one_name": "Masur D. (Ger)",
+            "player_two_name": "Herbert P. (Fra)",
+            "player_one_first_serve_total_points_won": "3",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "8",
+            "player_two_total_points_won": "6"
+        },
+        {
+            "player_one_name": "Brouwer G. (Ned)",
+            "player_two_name": "Moreno De Alboran N. (Usa)",
+            "player_one_first_serve_total_points_won": "2",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "0",
+            "player_two_total_points_won": "1"
+        },
+        {
+            "player_one_name": "Schoolkate T. (Aus)",
+            "player_two_name": "Atmane T. (Fra)",
+            "player_one_first_serve_total_points_won": "5",
+            "player_two_first_serve_total_points_won": "4",
+            "player_one_total_points_won": "10",
+            "player_two_total_points_won": "8"
+        },
+        {
+            "player_one_name": "Valentova T. (Cze)",
+            "player_two_name": "Samson L. (Cze)",
+            "player_one_first_serve_total_points_won": "6",
+            "player_two_first_serve_total_points_won": "3",
+            "player_one_total_points_won": "10",
+            "player_two_total_points_won": "6"
+        }
+    ],
+    "[[{\"player_one_name\": \"Tseng C. H. (Tpe)\", \"player_two_name\": \"Kym J. (Sui)\", \"player_one_first_serve_total_points_won\": \"0\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"0\", \"player_two_total_points_won\": \"8\"}, {\"player_one_name\": \"Salkova D. (Cze)\", \"player_two_name\": \"Caballer Catiru A. (Esp)\", \"player_one_first_serve_total_points_won\": \"1\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"5\", \"player_two_total_points_won\": \"7\"}, {\"player_one_name\": \"Dzumhur D. (Bih)\", \"player_two_name\": \"Roca Batalla O. (Esp)\", \"player_one_first_serve_total_points_won\": \"4\", \"player_two_first_serve_total_points_won\": \"4\", \"player_one_total_points_won\": \"6\", \"player_two_total_points_won\": \"7\"}, {\"player_one_name\": \"Tararudee L. (Tha)\", \"player_two_name\": \"Lopez Martinez C. (Esp)\", \"player_one_first_serve_total_points_won\": \"2\", \"player_two_first_serve_total_points_won\": \"2\", \"player_one_total_points_won\": \"5\", \"player_two_total_points_won\": \"7\"}, {\"player_one_name\": \"Van den Broek I. L. (Ned)\", \"player_two_name\": \"Sonmez Z. (Tur)\", \"player_one_first_serve_total_points_won\": \"5\", \"player_two_first_serve_total_points_won\": \"1\", \"player_one_total_points_won\": \"9\", \"player_two_total_points_won\": \"4\"}, {\"player_one_name\": \"Garin C. (Chi)\", \"player_two_name\": \"Yevseyev D. (Kaz)\", \"player_one_first_serve_total_points_won\": \"5\", \"player_two_first_serve_total_points_won\": \"6\", \"player_one_total_points_won\": \"1\", \"player_two_total_points_won\": \"1\"}, {\"player_one_name\": \"Stakusic M. (Can)\", \"player_two_name\": \"Galfi D. (Hun)\", \"player_one_first_serve_total_points_won\": \"5\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"10\", \"player_two_total_points_won\": \"8\"}, {\"player_one_name\": \"Gasquet R. (Fra)\", \"player_two_name\": \"Bonzi B. (Fra)\", \"player_one_first_serve_total_points_won\": \"1\", \"player_two_first_serve_total_points_won\": \"5\", \"player_one_total_points_won\": \"3\", \"player_two_total_points_won\": \"5\"}, {\"player_one_name\": \"Masur D. (Ger)\", \"player_two_name\": \"Herbert P. (Fra)\", \"player_one_first_serve_total_points_won\": \"3\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"8\", \"player_two_total_points_won\": \"6\"}, {\"player_one_name\": \"Brouwer G. (Ned)\", \"player_two_name\": \"Moreno De Alboran N. (Usa)\", \"player_one_first_serve_total_points_won\": \"2\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"0\", \"player_two_total_points_won\": \"1\"}, {\"player_one_name\": \"Schoolkate T. (Aus)\", \"player_two_name\": \"Atmane T. (Fra)\", \"player_one_first_serve_total_points_won\": \"5\", \"player_two_first_serve_total_points_won\": \"4\", \"player_one_total_points_won\": \"10\", \"player_two_total_points_won\": \"8\"}, {\"player_one_name\": \"Valentova T. (Cze)\", \"player_two_name\": \"Samson L. (Cze)\", \"player_one_first_serve_total_points_won\": \"6\", \"player_two_first_serve_total_points_won\": \"3\", \"player_one_total_points_won\": \"10\", \"player_two_total_points_won\": \"6\"}]]"
+]
